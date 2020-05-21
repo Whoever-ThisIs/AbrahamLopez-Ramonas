@@ -1,3 +1,4 @@
 inicio
 rojo 1
 rojo 2
+amarillo 3
