@@ -1,2 +1,3 @@
 inicio
 verde 1
+amarillo 1
